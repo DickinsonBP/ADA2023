@@ -1,20 +1,13 @@
-- en el diagrama de casos de uso, la identificacion deberia ser un prerrequisito y no un include
-- el actor sistema, no tiene sentido su nombre, es un automatismo el que se conecta, el sistema es la aplicacion en si
-- el circulo de dependencias de casos de uso que cuelgan del actor administrativo, deberian ser revisados, no tienen mucho sentido para representar la funcionalidad de la aplicacion
-- hay casos de uso que sobran
-- en el diagrama de entidades, falta la clase sesion, falta la clase reserva, no hay enum dia, falta la entidad horario, el atributo numero de maquinas de la entidad maquina, es incorrecto.
-- en el diagrama de entidades falta la cadena de propiedades
-- hay qye rehacer el diagrama de casos de uso y el de entidades
+David:
+- Corregir caso de uso 12-14 diagramas.
+- Parte de las metaforas classe entidad/diagrama clases.
+- Dialegs putos.
+- Base de datos.
+
+Er Dickin:
+- Parte de las metaforas classe entidad/diagrama clases.
+- Dialegs putos.
+- Revision diagrama.
 
 
 
-El CDU7 no hace falta, solo ponerlo en la especificacion textual.
-CDU12 include CDU14
-CDU13 sobra
-
-monitor - clase --> multiplicidad 1 a muchos. Un monitor puede hacer muchas clases.
-cambiar asociacion de reserva y ponerlo a servicio y instalacion. Cambiarlos por la asociacion.
-
-Hacer clase asociativa entre clase y maquina que tenga el numero de maquinas, se llama asignacion maquinas y tiene que tener el numero de máquinas. Cambiar el contendor contenido por asociación.
-
-Cambiar horario por horario instalacion y por contenedor contenido. multiplicidad 1 a 7.
