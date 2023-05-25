@@ -1,11 +1,8 @@
 David:
-- Corregir caso de uso 12-14 diagramas.
-- Parte de las metaforas classe entidad/diagrama clases.
 - Dialegs putos.
 - Base de datos.
 
 Er Dickin:
-- Parte de las metaforas classe entidad/diagrama clases.
 - Dialegs putos.
 - Revision diagrama.
 
