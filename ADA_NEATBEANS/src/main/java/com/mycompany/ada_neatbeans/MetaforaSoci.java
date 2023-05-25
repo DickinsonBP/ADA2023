@@ -53,7 +53,7 @@ public class MetaforaSoci extends javax.swing.JFrame {
 
         jLabel5.setText("quota:");
 
-        jLabel6.setText("37,60€");
+        jLabel6.setText("40€");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
